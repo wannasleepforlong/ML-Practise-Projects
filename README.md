@@ -1,2 +1,2 @@
 # ML-Practise-Projects
-Projects to practice by myself or after referencing to someone(mentioned)
+Projects to practice Machine Learning and Deep Learning.
